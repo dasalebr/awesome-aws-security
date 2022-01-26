@@ -1,5 +1,7 @@
 # Awesome AWS Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/e5b7fd89-80f7-4368-8ea5-91589557d7aa.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/awesome-aws-security?orgId=288883884012)  
+
 A common curated list of links, references, books videos, tutorials (Free or
 Paid), Exploit, CTFs, Hacking Practices etc. which are obviously related to AWS Security.
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
